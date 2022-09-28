@@ -1,1 +1,0 @@
-# rust_server_template
